@@ -1,0 +1,15 @@
+.heading{
+    color: maroon;
+    font-style: italic;
+}
+.post{
+    background-color: blanchedalmond;
+    
+    margin-top: 5vh;
+}
+.user{
+    font-style: italic;
+}
+.btn{
+    height:5vh;
+}
